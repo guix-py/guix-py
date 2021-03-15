@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @guix-py.
-- 👀 I’m interested in learn.
-- 🌱 I’m currently learning the basic of programation.
 - 📫 How to reach me lgcamata@gmail.com.
 
 <!---
