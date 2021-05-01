@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xyfodase.
-- 📫 How to reach me lgcamata@gmail.com.
+- 📫 How to reach me xyfodase@mit.com.
 
 <!---
 guix-py/guix-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
